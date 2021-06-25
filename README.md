@@ -1,6 +1,4 @@
-**RenanAbreu/RenanAbreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
- <div>
+<div>
   <a href="https://github.com/RenanAbreu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanAbreu&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAbreu&layout=compact&langs_count=16&theme=merko"/>
