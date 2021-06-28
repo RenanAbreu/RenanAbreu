@@ -16,7 +16,8 @@
 
 <div> 
  <br>
-  <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" target="_blank">
+  
+ <p>Achievements<p/> <img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" target="_blank">
   <hr>
   
   <a href="https://www.linkedin.com/in/renan-lopes-2ba594155" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
